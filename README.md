@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @amagerard
 - 👀 I’m interested in Debian , Almalinux
-- 🌱 I try to make a tutorial on freeradius and AlmaLinux 9 
-- 💞 Authentication with MySQL, AD server, OpenLDAP
+- 🌱 Soon: VM Almalinux9 template for system administrator
+- 
+- 💞 
+- 
 
 
 <!---
