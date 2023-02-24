@@ -4,7 +4,7 @@
 - 
 - 💞 
 
-The wiki will be unavailable from Monday February 27, 2023.
+The wiki will be unavailable from Monday February 27, 2023.  
 It should be available again on March 1st.
 
 Please checkout the wiki. https://github.com/amagerard/TemplateVM/wiki  
