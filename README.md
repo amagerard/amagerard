@@ -1,6 +1,6 @@
 TemplateVM is a model to install servers with Almalinux.   
-AlmaLinux OS is 1:1 binary compatible with RHEL® and pre-Stream CentOS. 
-[Go to TemplateVM](../../TemplateVM/wiki/01Installation)
+AlmaLinux OS is 1:1 binary compatible with RHEL® and pre-Stream CentOS.  
+[Go to TemplateVM](../TemplateVM/wiki/01Installation)
 
 
 PowerDns is a free server of domain name under GNU GPL license.  
