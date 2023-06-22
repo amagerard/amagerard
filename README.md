@@ -9,6 +9,8 @@ It allows you to manage domain names in a MySQL database
 powerdns-recursor is cache server.  
 Poweradmin is a friendly web-based DNS administration tool for PowerDNS server.    
 [Go to PowerDNS](../../../PowerDNS/wiki/01Network)  
+POWERDNS IS DOWN - important update - Almalinux 9.2 -Pdns 4.7.4 
+MariaDB 11 - PowerAdmin 3.5.1 - Coming soon ... 
 
 Postfix is the email transfer agent (MTA).  
 Dovecot The Secure IMAP server.  
