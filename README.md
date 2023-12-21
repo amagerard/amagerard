@@ -16,8 +16,8 @@ Postfixadmin, an open source, web based interface for managing domains/mailboxes
 
 Freeradius 3.2.2 is an authentication server with  mysql, ldap or Windows Active Directory.  
 [Go to Freeradius](../../../Freeradius/wiki/01Freeradius)  
-Currently wikijs is unavailable.
-Soon wikijs and xwiki.
+Currently wikijs is unavailable.  
+Soon wikijs and xwiki.  
 Wikijs, the most powerful and extensible open source Wiki software.  
 Markdown is a lightweight markup language with plain text formatting syntax.  
 It's the de-facto syntax for writing documentation on major code repositories such as GitHub.  
