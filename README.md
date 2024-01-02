@@ -26,5 +26,5 @@ Xwiki is an open source collaborative platform and wiki written in Java.
 
 [Go to Wiki](../../../Wiki/wiki/home)  
 
-Gerard Amailland (2023).  
+Gerard Amailland (2024).  
 
