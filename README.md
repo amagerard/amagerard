@@ -11,7 +11,7 @@ Poweradmin is a friendly web-based DNS administration tool for PowerDNS server.
 
 Postfix is the email transfer agent (MTA).  
 Dovecot The Secure IMAP server.  
-Postfixadmin, an open source, web based interface for managing domains/mailboxes/aliases.  
+Postfixadmin, an open source, web based interface (new with nginx) for managing domains/mailboxes/aliases.  
 [Go to Mail Server](../../../Mail/wiki/01Network)  
 
 Freeradius 3.2.2 is an authentication server with  mysql, ldap or Windows Active Directory.  
