@@ -15,6 +15,7 @@ Postfixadmin, an open source, web based interface for managing domains/mailboxes
 [Go to Mail Server](../../../Mail/wiki/01Network)  
 
 Freeradius 3.2.2 is an authentication server with  mysql, ldap or Windows Active Directory.  
+Soon installation of samba-ad.  
 [Go to Freeradius](../../../Freeradius/wiki/01Freeradius)  
 
  
