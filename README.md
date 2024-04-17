@@ -14,8 +14,7 @@ Dovecot The Secure IMAP server.
 Postfixadmin, an open source, web based interface (new with nginx) for managing domains/mailboxes/aliases.  
 [Go to Mail Server](../../../Mail/wiki/01Network)  
 
-Freeradius 3.2.3 is an authentication server with  mysql, ldap or Windows Active Directory.  
-Coming soon with samba ad to replace windows ad server.  
+Freeradius 3.2.3 is an authentication server with  mysql, ldap or samba Active Directory.  
 [Go to Freeradius](../../../Freeradius/wiki/01Freeradius)  
 
  
