@@ -1,4 +1,4 @@
-Soon, Drupal, Joomla, Wordpress, Xwiki and Mediawiki with Docker, Casaos and Zimaos.
+Soon, Drupal, Joomla, Wordpress, Xwiki and Mediawiki with Docker, Casaos and Zimaos and with the help of Portainer.
 
 TemplateVM is a model to install servers with Almalinux.   
 [Go to TemplateVM](../../../TemplateVM/wiki/01Installation)  
