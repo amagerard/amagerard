@@ -1,5 +1,3 @@
-Soon, Drupal, Joomla, Wordpress, Xwiki and Mediawiki with Docker, Casaos or Zimaos and with the help of Portainer.
-
 TemplateVM is a model to install servers with Almalinux.   
 [Go to TemplateVM](../../../TemplateVM/wiki/01Installation)  
 
@@ -23,7 +21,8 @@ It's the de-facto syntax for writing documentation on major code repositories su
 Xwiki is an open source collaborative platform and wiki written in Java.  
 [Go to Wikijs and Xwiki](../../../Wiki/wiki/home)  
 
- 
+How to install Drupal, Joomla, Wordpress, Xwiki and Mediawiki with Docker, Casaos or Zimaos and with the help of Portainer. 
+[Go to Docker, Casaos and Zimaos](../../../Docker/wiki/home)  
 
 Gerard Amailland (2025).  
 
