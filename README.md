@@ -20,10 +20,10 @@ Freeradius 3.2.3 is an authentication server with  mysql, ldap or Samba Active D
 Wikijs, the most powerful and extensible open source Wiki software.  
 Markdown is a lightweight markup language with plain text formatting syntax.  
 It's the de-facto syntax for writing documentation on major code repositories such as GitHub. 
-
 Xwiki is an open source collaborative platform and wiki written in Java.  
+[Go to Wikijs and Xwiki](../../../Wiki/wiki/home)  
 
-[Go to Wiki](../../../Wiki/wiki/home)  
+ 
 
 Gerard Amailland (2025).  
 
