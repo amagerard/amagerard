@@ -12,7 +12,7 @@ Dovecot The Secure IMAP server.
 Postfixadmin, an open source, web based interface (new with nginx) for managing domains/mailboxes/aliases.  
 [Go to Mail Server](../../../Mail/wiki/01Network)  
 
-Freeradius 3.2.3 is an authentication server with  mysql, ldap or Samba Active Directory.  
+Freeradius 3.2.7 is an authentication server with  mysql, ldap or Samba Active Directory.  
 [Go to Freeradius](../../../Freeradius/wiki/01Freeradius) 
  
 Wikijs, the most powerful and extensible open source Wiki software.  
