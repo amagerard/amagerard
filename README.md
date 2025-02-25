@@ -1,4 +1,4 @@
-TemplateVM is a model to install servers with Almalinux.   
+TemplateVM is a model to install servers with RedHat.   
 [Go to TemplateVM](../../../TemplateVM/wiki/01Installation)  
 
 PowerDns is a free server of domain name under GNU GPL license.  
