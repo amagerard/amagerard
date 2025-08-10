@@ -1,5 +1,5 @@
 TemplateVM is a model to install servers with RedHat.   
-[Go to TemplateVM](https://github.com/amagerard/TemplateVM)) 
+[Go to TemplateVM](https://github.com/amagerard/TemplateVM) 
 
 PowerDns is a free server of domain name under GNU GPL license.  
 It allows you to manage domain names in a MySQL database  
