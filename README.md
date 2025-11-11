@@ -1,7 +1,5 @@
 TemplateVM is a model to install servers with RedHat.   
 [Go to TemplateVM](https://github.com/amagerard/TemplateVM)   
-TemplateM will be available soon.   
-Certificate issue since opensslv3 with freeradius mariadb and openldap.  
 
 PowerDns is a free server of domain name under GNU GPL license.  
 It allows you to manage domain names in a MySQL database  
@@ -16,8 +14,7 @@ Postfixadmin, an open source, web based interface (new with nginx) for managing 
 
 Freeradius 3.2.7 is an authentication server with  mysql, ldap or Samba Active Directory.  
 [Go to Freeradius](../../../Freeradius/wiki/01Freeradius)  
-Freeradius will be available soon.   
-Certificate issue since opensslv3 with  mariadb and openldap.  
+
  
 Wikijs, the most powerful and extensible open source Wiki software.  
 Markdown is a lightweight markup language with plain text formatting syntax.  
