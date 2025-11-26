@@ -13,7 +13,7 @@ Postfixadmin, an open source, web based interface (new with nginx) for managing 
 [Go to Mail Server](https://github.com/amagerard/Mail)  
 
 Freeradius 3.2.8 is an authentication server with  mysql, ldap or Samba Active Directory.  
-[Go to Freeradius](../../../Freeradius/wiki/Home.md)  
+[Go to Freeradius](../../../Freeradius/wiki/Home)  
 Further changes will be implemented with RedHat 10.  
  
 Wikijs, the most powerful and extensible open source Wiki software.  
