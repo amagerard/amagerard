@@ -25,7 +25,7 @@ Xwiki is an open source collaborative platform and wiki written in Java.
 How to install Drupal, Joomla, Wordpress, Xwiki and Mediawiki with Docker, Casaos or Zimaos and with the help of Portainer.   
 [Go to Docker, Casaos and Zimaos](../../../Docker/wiki/home)  
 
-Samba AD primary, secondary, and file server with GPO.  
+Samba AD primary, secondary, and Rodc server with GPO.  
 [Go to Samba-AD](../../../Samba-AD/wiki/home)  
 
 Gerard Amailland (2026).  
